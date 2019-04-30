@@ -1226,10 +1226,10 @@ button {
   -webkit-transition: background-color 2.5s ease-in-out;
   -ms-transition: background-color 2.5s ease-in-out;
   transition: background-color 2.5s ease-in-out;
-  -moz-transition-delay: 0.75s;
-  -webkit-transition-delay: 0.75s;
-  -ms-transition-delay: 0.75s;
-  transition-delay: 0.75s;
+  -moz-transition-delay: 0.20s;
+  -webkit-transition-delay: 0.20s;
+  -ms-transition-delay: 0.20s;
+  transition-delay: 0.20s;
   background-image: linear-gradient(
       to top,
       rgba(19, 21, 25, 0.5),
